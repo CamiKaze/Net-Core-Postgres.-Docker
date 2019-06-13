@@ -1,0 +1,14 @@
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\bin\Release\netcoreapp2.2\ConverterAPI.deps.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\bin\Release\netcoreapp2.2\ConverterAPI.runtimeconfig.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\bin\Release\netcoreapp2.2\ConverterAPI.runtimeconfig.dev.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\bin\Release\netcoreapp2.2\ConverterAPI.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\bin\Release\netcoreapp2.2\ConverterAPI.pdb
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.RazorAssemblyInfo.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.RazorAssemblyInfo.cs
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.AssemblyInfo.cs
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPI\obj\Release\netcoreapp2.2\ConverterAPI.pdb

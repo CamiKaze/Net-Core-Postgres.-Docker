@@ -1,0 +1,17 @@
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPITests.deps.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPITests.runtimeconfig.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPITests.runtimeconfig.dev.json
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPITests.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPI.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPI.pdb
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.AssemblyInfoInputs.cache
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.AssemblyInfo.cs
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.csproj.CopyComplete
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\bin\Debug\netcoreapp2.2\ConverterAPITests.pdb
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.dll
+C:\Users\Cameron\source\repos\ConverterAPI\ConverterAPITests\obj\Debug\netcoreapp2.2\ConverterAPITests.pdb
