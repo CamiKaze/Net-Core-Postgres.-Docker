@@ -3,9 +3,12 @@
 2) Run application
 3) On a browser, navigate to: 
 
-http://localhost:8080/api/temperature 
-http://localhost:8080/api/mass 
-http://localhost:8080/api/length 
+http://localhost:8080/api/temperature
+
+http://localhost:8080/api/mass
+
+http://localhost:8080/api/length
+
  
 Can test with these values:
 http://localhost:8080/api/temperature/5/5  
