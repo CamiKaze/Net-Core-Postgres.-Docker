@@ -1,5 +1,5 @@
 # Net-Core-Postgres.-Docker
-1) Open solution in VisualStudio.
+1) Open solution in Visual Studio.
 2) Run application
 3) On a browser, navigate to: 
 
